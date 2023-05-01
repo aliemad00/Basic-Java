@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Hotel
+comment0.text=\r\n\ This\ java\ calculates\ hotel's\ days,\ restaurant,\ gym,\ services\ and\ prints\ them\ all.\r\n\r\n\ @author\ (Ali\ AL-Salihi)\r\n\ @version\ (2020/08/21)\r\n
+comment1.params=
+comment1.target=Hotel()
+numComments=2

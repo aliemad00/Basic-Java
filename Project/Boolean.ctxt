@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Boolean
+comment0.text=\r\n\ This\ java\ reveals\ if\ the\ month\ is\ in\ first,\ or\ second,\ or\ third\ or\ fourth\ quarter\ in\ the\ year.\r\n\r\n\ @author\ (Ali\ AL-Salihi)\r\n\ @version\ (2020/08/21)\r\n
+comment1.params=
+comment1.target=Boolean()
+numComments=2

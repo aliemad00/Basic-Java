@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Arrays
+comment0.text=\r\n\ Extracts\ Story\ txt\ file\ without\ names.\r\n\r\n\ @author\ (Ali\ AL-Salihi)\r\n\ @version\ (2020/08/21)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
